@@ -105,7 +105,7 @@
 
     <servlet-mapping>
         <servlet-name>opensrp</servlet-name>
-        <url-pattern>/</url-pattern>
+        <url-pattern>/WEB-INF/index.html</url-pattern>
     </servlet-mapping>
 
     <session-config>
